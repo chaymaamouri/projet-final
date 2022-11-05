@@ -1,0 +1,5 @@
+.card:hover > .card-inner{
+    width: 100%;
+    height: 100%;
+    background-color:#EFE2D9 ;
+}
